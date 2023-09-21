@@ -3,3 +3,4 @@
 whoami
 pwd
 ls -l
+jaba --varsion
